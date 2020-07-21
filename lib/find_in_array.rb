@@ -9,3 +9,5 @@ end
 array = ["sam", "josh"]
 
 puts array.include?("sam")
+
+puts array.index("sam")
