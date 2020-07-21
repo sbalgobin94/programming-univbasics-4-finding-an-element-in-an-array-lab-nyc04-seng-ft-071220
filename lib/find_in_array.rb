@@ -6,3 +6,6 @@ def find_element_index(array, value_to_find)
   end
 end
 
+array = ["sam", "josh"]
+
+array.include?("sam")
