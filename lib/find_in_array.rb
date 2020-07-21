@@ -10,4 +10,6 @@ array = ["sam", "josh"]
 
 puts array.include?("sam")
 
-puts array.index(sam)
+value_to_find = "sam"
+
+puts value_to_find
