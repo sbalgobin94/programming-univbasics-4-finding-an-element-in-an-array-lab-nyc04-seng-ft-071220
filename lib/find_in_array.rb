@@ -6,10 +6,3 @@ def find_element_index(array, value_to_find)
   end
 end
 
-array = ["sam", "josh"]
-
-puts array.include?("sam")
-
-value_to_find = "sam"
-
-puts value_to_find
