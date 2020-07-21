@@ -6,6 +6,6 @@ def find_element_index(array, value_to_find)
   end
 end
 
-names = ["sam", "josh"]
+names = [1, 2, 3]
 
-puts find_element_index(names, "josh")
+puts find_element_index(names, 1)
