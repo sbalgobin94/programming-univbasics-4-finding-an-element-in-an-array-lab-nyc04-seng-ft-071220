@@ -3,5 +3,3 @@ def find_element_index(array, value_to_find)
     array.index(value_to_find)
   end
 end
-
-sam = [1, 2, 3]
