@@ -8,4 +8,4 @@ end
 
 names = [1, 2, 3]
 
-puts find_element_index(names, 1)
+puts find_element_index(names, 2)
