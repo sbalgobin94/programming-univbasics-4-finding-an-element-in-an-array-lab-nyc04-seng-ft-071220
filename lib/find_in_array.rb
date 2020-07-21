@@ -8,4 +8,4 @@ end
 
 names = ["sam", "josh"]
 
-puts find_element_index(names, "alex")
+puts find_element_index(names, "sam")
