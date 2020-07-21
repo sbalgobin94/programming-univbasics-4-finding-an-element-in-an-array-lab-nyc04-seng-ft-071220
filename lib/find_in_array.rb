@@ -5,3 +5,5 @@ def find_element_index(array, value_to_find)
     nil
   end
 end
+
+names = ["sam", "josh"]
