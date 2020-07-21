@@ -8,4 +8,4 @@ end
 
 array = ["sam", "josh"]
 
-array.include?("sam")
+puts array.include?("sam")
