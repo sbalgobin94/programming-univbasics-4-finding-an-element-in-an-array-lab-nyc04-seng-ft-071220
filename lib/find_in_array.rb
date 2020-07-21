@@ -7,3 +7,5 @@ def find_element_index(array, value_to_find)
 end
 
 names = ["sam", "josh"]
+
+find_element_index(names, "sam")
